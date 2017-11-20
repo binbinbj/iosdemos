@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://123.56.161.123/ios/flwebview.ipa</string>
+					<string>http://123.56.161.123/ios/flwebview2.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>TZ4SG5FSFW.com.bb.FLWebView</string>
+				<string>com.bb.FLWebView</string>
 				<key>bundle-version</key>
 				<string>0.1.0</string>
 				<key>kind</key>
