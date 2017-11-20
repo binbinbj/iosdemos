@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FLWebView.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>A0290955ADBA774AB1F4CA42102C528A3858A9C0</string>
+				<key>dateExpires</key>
+				<string>20/11/2018</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>TZ4SG5FSFW.TZ4SG5FSFW.com.bb.FLWebView</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>TZ4SG5FSFW</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>TZ4SG5FSFW.TZ4SG5FSFW.com.bb.FLWebView</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>FLWebView.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>1e9e33d5-b8b7-412e-96ce-f703e093fad5</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>TZ4SG5FSFW</string>
+				<key>name</key>
+				<string>Bin Bin</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
